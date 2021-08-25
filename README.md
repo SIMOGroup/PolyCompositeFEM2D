@@ -11,3 +11,11 @@ Structure of PolyCompositeFEM2D package:
 3. How to run PolyCompositeFEM2D: You need to define a new problem following code structures. 
 4. Run PCEn_....m and then use Paraview to show results in displacements and stresses. 
 5. Get output
+
+# Contributors
+Hung Nguyen-Xuan
+Khanh N. Chau
+Khai N. Chau
+
+# References
+H. Nguyen-Xuan, Khanh N. Chau, Khai N. Chau, Polytopal composite finite elements, Computer Methods in Applied Mechanics and Engineering, 355, 405-437, 2019 https://doi.org/10.1016/j.cma.2019.06.030.
