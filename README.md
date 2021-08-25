@@ -8,9 +8,11 @@ Matlab codes may be extensively developed for a wide range of engineering proble
 Structure of PolyCompositeFEM2D package: 
 1. PCEn_CantileverBeam & PCEn_CylinderHollowPlate & PCEn_CooksMembrane: main programs for running 2D solids. 
 2. Other functions are given in subfolders. 
-3. How to run PolyCompositeFEM2D: You need to define a new problem following code structures. 
-4. Run PCEn_....m and then use Paraview to show results in displacements and stresses. 
-5. Get output
+3. How to run PolyCompositeFEM2D 
+  - Define a new problem following code structures 
+  - Run PCEn_....m 
+  - Use Paraview to show results in displacements and stresses. 
+  - Get output
 
 # Contributors
 - Hung Nguyen-Xuan
